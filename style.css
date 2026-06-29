@@ -47,12 +47,12 @@ nav {
 }
 
 .nav-logo {
-  font-family: var(--mono);
-  font-size: 13px;
-  color: var(--accent);
-  letter-spacing: 0.04em;
+    font-family: var(--mono);
+    font-size: 13px;
+    color: var(--accent);
+    letter-spacing: 0.04em;
+    text-decoration: none;
 }
-
 .nav-links {
   display: flex;
   gap: 1.5rem;
